@@ -7,7 +7,7 @@ body {
 }
 
 .principal{
-	background: #CCCCCC;
+	background: rgba(216, 148, 23, 0.835);
 	padding: 30px;
 }
 
@@ -28,7 +28,7 @@ p {
 }
 
 em strong {
-	color: #FF0000;
+	color: rgb(197, 76, 76);
 }
 
 .itens {
